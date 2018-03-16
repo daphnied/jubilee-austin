@@ -33,7 +33,7 @@ nav li {
   clear: both;
   font-family: 'Lora', serif;
   font-size: 72px;
-  line-height: 80px;
+  line-height: 100px;
   color: #9b9b9b;
   padding: 20px 0px 20px 0px;
   background-size: cover;
@@ -60,6 +60,7 @@ span {
 
 .me {
   text-align: left;
+  
 }
 
 .para {
