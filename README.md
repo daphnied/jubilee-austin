@@ -1,1 +1,1 @@
-# jubilee-austin-site
+# Static site made with HTML and CSS
