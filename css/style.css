@@ -1,7 +1,7 @@
 .container {
   display: grid;
   grid-template-columns: repeat(1fr);
-  grid-template-rows: 50px 400px 400px 400px 600px;
+  grid-template-rows: 50px 400px 400px 400px auto;
 
 }
 
@@ -60,7 +60,7 @@ span {
 
 .me {
   text-align: left;
-  
+
 }
 
 .para {
