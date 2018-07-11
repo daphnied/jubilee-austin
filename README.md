@@ -1,1 +1,3 @@
-# Static site made with HTML and CSS
+# Jubilee Austin website
+
+Static website developed using HTML, CSS and Bootstrap
